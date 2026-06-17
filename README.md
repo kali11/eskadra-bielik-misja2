@@ -55,13 +55,11 @@ Przykładowy kod źródłowy zawarty w tym repozytorium pozwala w szczególnośc
 
 ## 1. Przygotowanie projektu Google Cloud
 
-1. Uzyskaj kredyt Cloud **OnRamp**, lub skonfiguruj płatności w projekcie Google Cloud
+1. Zaloguj się do Google Cloud Platform z wykorzystaniem otrzymanego konta.
 
 2. Przejdź do **Google Cloud Console**: [console.cloud.google.com](https://console.cloud.google.com)
 
-3. Stwórz nowy projekt Google Cloud i wybierz go aby był aktywny
->[!TIP]
->Możesz sprawdzić dostępność kredytów OnRamp wybierając z menu po lewej stronie: Billing / Credits
+3. Otwórz listę projektów. Powinieneś znaleźć tam już istniejący projekt o nazwie "Bielik Warsaw..."
 
 4. Otwórz Cloud Shell ([dokumentacja](https://cloud.google.com/shell/docs))
 
